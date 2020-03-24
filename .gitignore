@@ -77,3 +77,5 @@
 **/android/app/proguard-rules.pro
 **/android/app/build
 .flutter-plugins-dependencies
+
+google-services.json
